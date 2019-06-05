@@ -1,0 +1,12 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`snapshots insertCardToDOM card html snapshot 1`] = `"<div class=\\"card\\" data-card-id=\\"111\\"><p>Learn JS</p><button>X</button></div>"`;
+
+exports[`snapshots jsonplaceholder /todos/1 JSON 1`] = `
+Object {
+  "completed": false,
+  "id": 1,
+  "title": "delectus aut autem",
+  "userId": 1,
+}
+`;
